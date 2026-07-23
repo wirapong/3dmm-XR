@@ -9,7 +9,7 @@ reconstruction — prototyping personalised avatars for **Extended Reality
 > Applications.*
 > **Authors:** Qianqian He¹, Wirapong Chansanam¹, Lan Thi Nguyen¹,*, Kannikar Intawong², and Kitti Puritat²,* 
 > ¹ Department of Information Science, Faculty of Humanities and Social
-> ²	Faculty of Public Health, Chiang Mai University, Chiang Mai 50200, Thailand; kannikar.i@cmu.ac.th
+> ²	Faculty of Public Health, Chiang Mai University, Chiang Mai 50200, Thailand; 
 > 3	Department of Library and Information Science, Faculty of Humanities, Chiang Mai University, 
 Chiang Mai 50200, Thailand
 
