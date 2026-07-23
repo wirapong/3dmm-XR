@@ -1,0 +1,56 @@
+# === GitHub 100 MB file size limit — exclude large model weights ===
+project/model/BFM.mat
+project/model/shape_predictor_68_face_landmarks.dat
+project/model/fit_model.pth
+project/model/*.mat
+project/model/*.pth
+project/model/*.dat
+
+# === Datasets (download separately) ===
+project/data/AFLW2000/
+project/data/train/
+project/data/test/
+project/data/*.npy
+project/data/*.h5
+project/data/*.mat
+
+# === Training artifacts ===
+project/runs/
+project/checkpoints/
+project/logs/
+project/output/
+project/results/
+project/tmp/
+project/wandb/
+
+# === Python ===
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.venv/
+.env
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# === Jupyter ===
+.ipynb_checkpoints/
+
+# === macOS ===
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# === IDE ===
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# === Chinese-named legacy files (encoding issues) ===
+project/bin/train-修复.py

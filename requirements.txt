@@ -1,0 +1,18 @@
+# Core scientific stack
+numpy>=1.24
+scipy>=1.10
+matplotlib>=3.7
+Pillow>=10.0
+
+# Deep learning + 3D
+torch>=2.0
+torchvision>=0.15
+
+# Face processing
+dlib>=19.24
+opencv-python>=4.8
+
+# I/O
+h5py>=3.9
+scikit-image>=0.21
+tqdm>=4.65
