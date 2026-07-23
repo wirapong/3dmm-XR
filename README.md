@@ -7,13 +7,12 @@ reconstruction — prototyping personalised avatars for **Extended Reality
 > **Paper:** *A Lightweight 3DMM-CNN Pipeline for Real-Time Single-Image 3D
 > Face Reconstruction: Prototyping Personalised Avatars for Extended Reality
 > Applications.*
-> **Target journal:** [Informatics (MDPI)](https://www.mdpi.com/journal/informatics)
-> — Special Issue *"Real-World Applications and Prototyping of Information
-> Systems for Extended Reality (VR, AR, and MR)."*
-> **Authors:** Qianqian He¹, Wirapong Chansanam²,\*, Lan Thi Nguyen²
-> ¹ Master of Information Science Programme, Graduate School, Khon Kaen
-> University (KKU), Thailand
-> ² Department of Information Science, Faculty of Humanities and Social
+> **Authors:** Qianqian He¹, Wirapong Chansanam¹, Lan Thi Nguyen¹,*, Kannikar Intawong², and Kitti Puritat²,* 
+> ¹ Department of Information Science, Faculty of Humanities and Social
+> ²	Faculty of Public Health, Chiang Mai University, Chiang Mai 50200, Thailand; kannikar.i@cmu.ac.th
+> 3	Department of Library and Information Science, Faculty of Humanities, Chiang Mai University, 
+Chiang Mai 50200, Thailand
+
 > Sciences, KKU, Thailand
 > \* Corresponding author: `wirach@kku.ac.th`
 
